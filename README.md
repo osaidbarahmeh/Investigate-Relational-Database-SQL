@@ -35,9 +35,6 @@ The goal was to extract business insights and improve query performance.
 - Aggregations (SUM, COUNT)
 - GROUP BY & ORDER BY
 
-## 📈 Sample Visualizations
-![Chart1](images/chart1.png)
-![Chart2](images/chart2.png)
 
 ## 💡 Business Insights
 - Identified most rented family movies
